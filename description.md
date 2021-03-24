@@ -1,0 +1,1 @@
+Questões de lógica, aritmética e álgebra do desafio de nivelamento do curso de _Data Science_.
