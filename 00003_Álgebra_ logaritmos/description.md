@@ -1,0 +1,1 @@
+Considere que _log(x)_ represente o logaritmo de _x_ na base 10. Nesse caso, assinale a(s) alternativa(s) correta(s):
