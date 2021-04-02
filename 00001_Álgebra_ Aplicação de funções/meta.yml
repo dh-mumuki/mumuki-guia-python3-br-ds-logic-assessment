@@ -29,4 +29,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "-4"
   checked: false
-name: Função 1
+name: 'Álgebra: Aplicação de funções'
