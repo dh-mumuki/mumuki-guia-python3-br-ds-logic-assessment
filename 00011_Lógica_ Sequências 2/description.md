@@ -1,0 +1,3 @@
+Identifique os três números faltantes na sequência abaixo:
+
+0, 1, 1, 2, 3, 5, 8, 13, ?, 34, ?, 89, ?
